@@ -2,7 +2,7 @@
 
 ## Using :
 
-### - ith1
+### - h1
     background: #000;
     color: orange;
     text-align: center;
